@@ -112,7 +112,7 @@ Associado ao Departamento de Língua e Literaturas Estrangeiras (DLLE) - UFSC
 - Arquitetura e desenvolvimento do site de proficiência em idiomas.
 
 **Tecnologias**:
-- PHP, JavaScript, MySQL.
+- PHP, JavaScript, HTML, CSS, Bootstrap, MySQL.
 
 ### Site Cursos Extra
 _Jan 2015 - Mar 2016_  
