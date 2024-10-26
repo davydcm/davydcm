@@ -39,7 +39,7 @@ _Ago 2016 - Jan 2023 | Florianópolis, SC_
 - Criação de relatórios personalizados e manutenção de sistemas web com PHP e JavaScript.
 - Gestão e manutenção do banco de dados SQL Server.
 
-### Universidade Federal de Santa Catarina
+### Departamento de Língua e Literatura Estrangeira
 **Desenvolvedor**  
 _Atuação por 6 anos | Florianópolis, SC_  
 - Desenvolvimento de sistemas web e manutenção de sites para o Departamento de Idiomas.
