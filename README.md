@@ -14,13 +14,22 @@ Anteriormente, tive a oportunidade de trabalhar no **Departamento de Língua e L
 
 ---
 
-## 💻 Habilidades Técnicas
+## 💻 Hardskills
 
 - **Linguagens de Programação**: PHP, Delphi, Java, JavaScript
 - **Frameworks**: Laravel
 - **Banco de Dados**: SQL Server, MySQL
 - **Frontend**: Bootstrap, CSS
 - **Outros**: ERP, desenvolvimento de relatórios, análise de sistemas, suporte técnico
+---
+
+## 💻 Softskills
+
+- Criatividade
+- Comunicação
+- Adaptabilidade
+- Resiliência
+- Empatia
 
 ---
 
