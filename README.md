@@ -23,7 +23,7 @@ Anteriormente, tive a oportunidade de trabalhar no **Departamento de Língua e L
 - **Outros**: ERP, desenvolvimento de relatórios, análise de sistemas, suporte técnico
 ---
 
-## 💻 Softskills
+## 🧠 Softskills
 
 - Criatividade
 - Comunicação
