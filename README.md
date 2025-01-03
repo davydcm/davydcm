@@ -36,8 +36,8 @@ Anteriormente, tive a oportunidade de trabalhar no **Departamento de Língua e L
 ## 🏢 Experiência Profissional
 
 ### Fundação de Amparo à Pesquisa e Extensão Universitária
-**Supervisor**
-_Nov 2024 - Presente | Florianópolis, SC_
+**Supervisor**  
+_Nov 2024 - Presente | Florianópolis, SC_  
 - Responsável por liderar e coordenar as atividades da equipe de Tecnologia da Informação
 - Levantamento de Requisitos junto aos usuários.
 - Planejamento de desenvolvimento.
