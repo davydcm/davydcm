@@ -8,7 +8,7 @@ Sou um desenvolvedor de software com uma sólida experiência em criar soluçõe
 
 ## 📋 Sobre Mim
 
-Atualmente, atuo como **Analista de Sistemas** na Fundação de Amparo à Pesquisa e Extensão Universitária, onde sou responsável por liderar o desenvolvimento de sistemas ERP e web, além de gerenciar bancos de dados. Minha experiência inclui o desenvolvimento de novas funcionalidades, relatórios personalizados e a implementação de processos sob demanda.
+Atualmente, atuo como **Supervisor de TI** e **Analista de Sistemas** na Fundação de Amparo à Pesquisa e Extensão Universitária, onde sou responsável por liderar o desenvolvimento de sistemas ERP e web, além de gerenciar bancos de dados. Minha experiência inclui o desenvolvimento de novas funcionalidades, relatórios personalizados e a implementação de processos sob demanda.
 
 Anteriormente, tive a oportunidade de trabalhar no **Departamento de Língua e Literatura Estrangeira** na UFSC, onde fui responsável pela manutenção e desenvolvimento de sistemas no Departamento. Foi lá que desenvolvi soluções inovadoras, como um sistema de agendamento de provas de proficiência e a automação de inscrições para eventos acadêmicos.
 
@@ -21,6 +21,7 @@ Anteriormente, tive a oportunidade de trabalhar no **Departamento de Língua e L
 - **Banco de Dados**: SQL Server, MySQL
 - **Frontend**: Bootstrap, CSS
 - **Outros**: ERP, desenvolvimento de relatórios, análise de sistemas, suporte técnico
+  
 ---
 
 ## 🧠 Softskills
