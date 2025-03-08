@@ -1,6 +1,6 @@
 # 👋 Olá, 
 
-### Analista de Sistemas | PHP - Laravel - Delphi - SQL Server - MySQL
+### Analista de Sistemas | PHP - Laravel - Delphi - SQL Server - MySQL - Java - JavaScript
 
 Sou um desenvolvedor de software com uma sólida experiência em criar soluções tecnológicas eficazes. Ao longo dos anos, tenho trabalhado em projetos desafiadores que me permitiram aprimorar minhas habilidades e oferecer resultados significativos.
 
