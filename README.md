@@ -37,6 +37,12 @@ Anteriormente, tive a oportunidade de trabalhar no **Departamento de Língua e L
 ## 🏢 Experiência Profissional
 
 ### Fundação de Amparo à Pesquisa e Extensão Universitária
+**Membro Comitê LGPD**
+_Fev 2025 - Presente | Florianópolis, SC_
+- Participação de Reuniões.
+- Tratamento dos Dados.
+- Tomada de decisões.
+
 **Supervisor**  
 _Nov 2024 - Presente | Florianópolis, SC_  
 - Responsável por liderar e coordenar as atividades da equipe de Tecnologia da Informação
