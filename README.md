@@ -37,8 +37,8 @@ Anteriormente, tive a oportunidade de trabalhar no **Departamento de Língua e L
 ## 🏢 Experiência Profissional
 
 ### Fundação de Amparo à Pesquisa e Extensão Universitária
-**Membro Comitê LGPD**
-_Fev 2025 - Presente | Florianópolis, SC_
+**Membro Comitê LGPD**  
+_Fev 2025 - Presente | Florianópolis, SC_  
 - Participação de Reuniões.
 - Tratamento dos Dados.
 - Tomada de decisões.
