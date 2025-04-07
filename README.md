@@ -38,25 +38,25 @@ Anteriormente, tive a oportunidade de trabalhar no **Departamento de Língua e L
 
 ### Fundação de Amparo à Pesquisa e Extensão Universitária
 **Membro Comitê LGPD**  
-_Fev 2025 - Presente | Florianópolis, SC_  
+_Fevereiro 2025 - Presente | Florianópolis, SC_  
 - Participação de Reuniões.
 - Tratamento dos Dados.
 - Tomada de decisões.
 
 **Supervisor**  
-_Nov 2024 - Presente | Florianópolis, SC_  
+_Novembro 2024 - Presente | Florianópolis, SC_  
 - Responsável por liderar e coordenar as atividades da equipe de Tecnologia da Informação
 - Levantamento de Requisitos junto aos usuários.
 - Planejamento de desenvolvimento.
 
 **Analista de Sistemas**  
-_Jan 2023 - Presente | Florianópolis, SC_  
+_Janeiro 2023 - Presente | Florianópolis, SC_  
 - Desenvolvimento de novas funcionalidades e relatórios para o sistema ERP da fundação.
 - Implementação de novas tecnologias e manutenção dos sistemas web.
 - Administração de banco de dados SQL Server, incluindo procedures e funções.
 
 **Desenvolvedor de Software**  
-_Ago 2016 - Jan 2023 | Florianópolis, SC_  
+_Agosto 2016 - Janeiro 2023 | Florianópolis, SC_  
 - Desenvolvimento de funcionalidades no sistema interno utilizando Delphi.
 - Criação de relatórios personalizados e manutenção de sistemas web com PHP e JavaScript.
 - Gestão e manutenção do banco de dados SQL Server.
@@ -72,7 +72,7 @@ _Atuação por 6 anos | Florianópolis, SC_
 ## 📝 Projetos
 
 ### Sistema Administrativo de Eventos
-_Mai 2024 - Presente_  
+_Maio 2024 - Presente_  
 Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
 **Atividades desenvolvidas**:
 - Arquitetura do projeto e do banco de dados.
@@ -88,7 +88,7 @@ Associado à Fundação de Amparo à Pesquisa e Extensão Universitária
 - PHP 8, Laravel 11, MySQL, JavaScript, CSS.
 
 ### Sistema de Reserva de Salas
-_Fev 2024 - Presente_  
+_Fevereiro 2024 - Presente_  
 Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
 **Módulo Cliente** (PHP, JavaScript, CSS):
 - Verificação de disponibilidade e solicitação de reservas.
@@ -100,7 +100,7 @@ Associado à Fundação de Amparo à Pesquisa e Extensão Universitária
 - Delphi, SQL Server.
 
 ### Portal do Coordenador
-_Ago 2016 - Presente_  
+_Agosto 2016 - Presente_  
 Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
 **Funcionalidades**:
 - Sistema para solicitações de compras, passagens, diárias, pagamentos.
@@ -110,7 +110,7 @@ Associado à Fundação de Amparo à Pesquisa e Extensão Universitária
 - HTML, CSS, PHP, SQL Server.
 
 ### Sistema ERP
-_Ago 2016 - Presente_  
+_Agosto 2016 - Presente_  
 Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
 **Funcionalidades**:
 - Manutenção e desenvolvimento de funcionalidades para compras, financeiro e contabilidade.
@@ -119,7 +119,7 @@ Associado à Fundação de Amparo à Pesquisa e Extensão Universitária
 - Delphi, SQL Server.
 
 ### Sistema para Cotação de Preços
-_Mar 2024_  
+_Março 2024_  
 Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
 **Funcionalidades**:
 - Envio de cotações para fornecedores e geração de relatórios de preços para decisões de compras.
@@ -128,7 +128,7 @@ Associado à Fundação de Amparo à Pesquisa e Extensão Universitária
 - Delphi, HTML, CSS, PHP, JavaScript, SQL Server.
 
 ### Site Proficiência
-_Abr 2016 - Jul 2016_  
+_Abril 2016 - Julho 2016_  
 Associado ao Departamento de Língua e Literaturas Estrangeiras (DLLE) - UFSC  
 **Funcionalidades**:
 - Arquitetura e desenvolvimento do site de proficiência em idiomas.
@@ -137,7 +137,7 @@ Associado ao Departamento de Língua e Literaturas Estrangeiras (DLLE) - UFSC
 - PHP, JavaScript, HTML, CSS, Bootstrap, MySQL.
 
 ### Site Cursos Extra
-_Jan 2015 - Mar 2016_  
+_Janeiro 2015 - Março 2016_  
 Associado ao Departamento de Língua e Literaturas Estrangeiras (DLLE) - UFSC  
 **Funcionalidades**:
 - Desenvolvimento do site para gerenciamento de cursos.
