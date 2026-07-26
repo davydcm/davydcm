@@ -74,7 +74,7 @@ _Atuação por 6 anos | Florianópolis, SC_
 ### Portal do Fornecedor
 _Janeiro 2026 - Presente_  
 Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
-**Funcionalidades**:
+**Atividades desenvolvidas**:
 - Levantamento de Requisitos;
 - Desenvolvimento da documentação;
 - Acompanhamento do desenvolvimento;
@@ -84,7 +84,7 @@ Associado à Fundação de Amparo à Pesquisa e Extensão Universitária
 ### Portal do Colaborador
 _Maio 2026 - Presente_  
 Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
-**Funcionalidades**:
+**Atividades desenvolvidas**:
 - Levantamento de Requisitos;
 - Desenvolvimento da documentação;
 - Acompanhamento do desenvolvimento;
