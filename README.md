@@ -20,7 +20,7 @@ Anteriormente, tive a oportunidade de trabalhar no **Departamento de Língua e L
 - **Frameworks**: Laravel
 - **Banco de Dados**: SQL Server, MySQL
 - **Frontend**: Bootstrap, CSS
-- **Outros**: ERP, desenvolvimento de relatórios, análise de sistemas, suporte técnico
+- **Outros**: ERP, desenvolvimento de sistemas, análise de sistemas, suporte técnico
   
 ---
 
@@ -70,6 +70,45 @@ _Atuação por 6 anos | Florianópolis, SC_
 ---
 
 ## 📝 Projetos
+
+### Portal do Fornecedor
+_Janeiro 2026 - Presente_  
+Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
+**Funcionalidades**:
+- Levantamento de Requisitos;
+- Desenvolvimento da documentação;
+- Acompanhamento do desenvolvimento;
+- Code reviews;
+- Auxílio com dúvidas dos desenvolvedores;
+
+### Portal do Colaborador
+_Maio 2026 - Presente_  
+Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
+**Funcionalidades**:
+- Levantamento de Requisitos;
+- Desenvolvimento da documentação;
+- Acompanhamento do desenvolvimento;
+- Code reviews;
+- Auxílio com dúvidas dos desenvolvedores;
+
+### Criação de novos projetos
+_Janeiro de 2025 - Presente_
+Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
+**Atividades desenvolvidas**:
+- Iniciativa no desenvolvimento de novos projetos;
+- Reuniões para entender as dores dos setores;
+- Levantamento de requisitos;
+- Desenvolvimento de documentação;
+
+### Liderança no desenvolvimento de projetos
+_Janeiro de 2025 - Presente_
+Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
+**Atividades desenvolvidas**:
+- Desenvolvimento da documentação;
+- Análise de Requisitos;
+- Acompanhamento no desenvolvimento;
+- Code reviews;
+- Acompanhamento das dúvidas dos desenvolvedores;
 
 ### Sistema Administrativo de Eventos
 _Maio 2024 - Presente_  
