@@ -71,6 +71,22 @@ _Atuação por 6 anos | Florianópolis, SC_
 
 ## 📝 Projetos
 
+### MoveUp — Plataforma de Bem-Estar Corporativo
+_Junho 2026 - Presente_  
+[PROJETO PESSOAL]
+Desenvolvi o MoveUp, uma plataforma SaaS B2B de wellness corporativo que engaja colaboradores em hábitos saudáveis por meio de gamificação e comunidade.
+A aplicação permite que empresas acompanhem e incentivem atividades físicas, saúde mental, hidratação e bem-estar geral dos seus times, com relatórios de engajamento, métricas de inatividade e painéis administrativos completos.
+**Principais funcionalidades**:
+- Registro de atividades físicas e mentais com sistema de XP, níveis e sequências (streaks)
+- Feed social com reações, comentários e compartilhamento de conquistas
+- Sistema de badges e desafios com metas temporais e progresso rastreado
+- Check-ins de bem-estar (humor, estresse, qualidade do sono)
+- Eventos e treinos em grupo com sistema de check-in e controle de vagas
+- Ranking por departamento e programa de indicações
+- Painel administrativo com gestão de usuários, planos e relatórios
+- Arquitetura multi-tenant com hierarquia empresa → departamento → usuário
+- Planos de assinatura com feature gating (Free, Business, Business+)
+
 ### Portal do Fornecedor
 _Janeiro 2026 - Presente_  
 Associado à Fundação de Amparo à Pesquisa e Extensão Universitária  
